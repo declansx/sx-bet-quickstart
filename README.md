@@ -179,8 +179,8 @@ Can you show me how to combine these modules to implement this strategy?"
 
 - [SX Bet Documentation](https://sx.bet/docs)
 - [API Reference](https://api.sx.bet/docs)
-- [YouTube Tutorial Series](your-channel-link)
-- [Discord Community](https://discord.gg/sxbet)
+- [YouTube Tutorial Series](youtube.com/sxnetwork)
+- [Discord Community](https://discord.gg/sxnetwork)
 
 ## License
 
